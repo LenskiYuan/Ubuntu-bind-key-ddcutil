@@ -6,6 +6,8 @@ This repo contains small shell scripts to control external monitor brightness on
 
 - `brightness-up.sh`: increase monitor brightness
 - `brightness-down.sh`: decrease monitor brightness
+- `brightness-max.sh`: set monitor brightness to 100%
+- `brightness-53.sh`: set monitor brightness to 53%
 - `setup-brightness-keys.sh`: copy the scripts to `~/bin` and register GNOME custom shortcuts
 
 ## Requirements
@@ -40,6 +42,8 @@ Default shortcut bindings:
 
 - `Ctrl` + `Alt` + `Page Up`: brightness up
 - `Ctrl` + `Alt` + `Page Down`: brightness down
+- `Ctrl` + `Alt` + `End`: brightness to 100%
+- `Ctrl` + `Alt` + `Home`: brightness to 53%
 
 ## Notes
 
