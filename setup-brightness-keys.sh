@@ -108,4 +108,4 @@ gsettings set org.gnome.settings-daemon.plugins.media-keys.custom-keybinding:$DO
 #gsettings set org.gnome.settings-daemon.plugins.media-keys.custom-keybinding:$DOWN_PATH binding "<Ctrl><Alt>Down"
 gsettings set org.gnome.settings-daemon.plugins.media-keys.custom-keybinding:$DOWN_PATH binding "<Ctrl><Alt>Page_Down"
 
-echo "✅ Brightness shortcuts configured!"
+echo "Brightness shortcuts configured."
