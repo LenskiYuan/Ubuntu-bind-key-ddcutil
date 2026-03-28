@@ -2,6 +2,13 @@
 
 This repo contains small shell scripts to control external monitor brightness on Ubuntu with `ddcutil`, plus a setup script to register GNOME keyboard shortcuts.
 
+# Why Ubuntu doesn’t do this automatically
+
+	Because:
+		DDC/CI is not standardized well across monitors
+		Can cause crashes or hangs on some hardware
+		So Linux leaves it manual
+
 ## Files
 
 - `brightness-up.sh`: increase monitor brightness
